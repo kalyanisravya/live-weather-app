@@ -23,3 +23,8 @@ This is a real-time weather web application that lets users search for any city 
 
 
 ## 📁 Folder Structure
+live-weather-app/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
